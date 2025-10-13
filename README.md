@@ -19,7 +19,7 @@
     </td>
     <td style="vertical-align:top; width:500px; border:none; padding:0 20px;">
       <ul>
-        <li>💬 Ask me about <b>Full Stack of X86 Assembly</b></li>
+        <li>💬 Ask me about <b>Full Stack or X86 Assembly</b></li>
         <li>📫 How to reach me <b>andrewcappelli13@gmail.com</b></li>
         <li>📄 Know about my experiences <a href="https://cappel.li">cappel.li</a></li>
         <li>⚡ Fun fact <b>I think I'm a god</b></li>
