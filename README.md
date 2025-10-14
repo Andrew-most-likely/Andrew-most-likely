@@ -51,8 +51,10 @@
            width="500" style="border-radius: 10px;"/>
     </td>
     <td style="border: none; padding: 0;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=andrew-most-likely" 
-           alt="GitHub Streak" 
+  <img
+    src="https://streak-stats.demolab.com/?user=andrew-most-likely&theme=tokyonight&hide_border=true"
+    alt="Andrew's GitHub Streak"
+    width="48%"
            width="500" style="border-radius: 10px;"/>
     </td>
   </tr>
