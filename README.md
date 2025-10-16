@@ -48,7 +48,7 @@
     <td style="border: none; padding: 0;">
       <img src="https://github-readme-stats.vercel.app/api?username=andrew-most-likely&show_icons=true&locale=en" 
            alt="GitHub Stats" 
-           width="500" style="border-radius: 10px;"/>
+           width="470" style="border-radius: 10px;"/>
     </td>
     <td style="border: none; padding: 0;">
   <img
