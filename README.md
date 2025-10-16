@@ -52,7 +52,7 @@
     </td>
     <td style="border: none; padding: 0;">
   <img
-    src="https://streak-stats.demolab.com/?user=andrew-most-likely&theme=dark&hide_border=true"
+    src="https://streak-stats.demolab.com/?user=andrew-most-likely&theme=light&hide_border=true"
     alt="Andrew's GitHub Streak"
      width="500" style="border-radius: 10px;"/>
     </td>
