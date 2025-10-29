@@ -21,7 +21,7 @@
         <li>💬 Ask me about <b>Full Stack or X86 Assembly</b></li>
         <li>📫 How to reach me: <b>andrewcappelli13@gmail.com</b></li>
         <li>📄 Peek at my epic adventures: <a href="https://cappel.li">cappel.li</a></li>
-        <li>⚡ Fun fact: I’m a god </li>
+        <li>⚡ Fun fact: I love rocks </li>
       </ul>
     </td>
   </tr>
