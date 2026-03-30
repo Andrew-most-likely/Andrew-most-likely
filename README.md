@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andrew</h1>
 
 <div align="center" style="display:flex; align-items:baseline; justify-content:center; gap:10px;">
-  <h3 style="margin:0;">A frontend wizard from the US 🧙‍♂️</h3>
+  <h3 style="margin:0;">A Cyber Security wizard from the US 🧙‍♂️</h3>
   <img src="https://komarev.com/ghpvc/?username=andrew-most-likely&label=Profile%20views&color=0e75b6&style=flat" 
        alt="andrew-most-likely" />
 </div>
