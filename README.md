@@ -10,15 +10,16 @@
   <tr>
     <td style="vertical-align:top; width:500px; border:none; padding:0 20px;">
       <ul>
-        <li>🔭 Currently brewing some magic: <a href="https://github.com/Andrew-most-likely/Terminal-Port-Crawler">Terminal-Port-Crawler</a></li>
-        <li>🌱 Learning to tame NPM</li>
+        <li>🔭 Currently brewing some magic: <a href="https://github.com/Andrew-most-likely/NUKE-IT">NUKE-IT</a></li>
+        <li>🌱 Published on npm: <a href="https://www.npmjs.com/package/@mightbeandrew/wtfcli">@mightbeandrew/wtfcli</a></li>
         <li>👨‍💻 All my chaos lives here on <a href="https://github.com/Andrew-most-likely">GitHub</a></li>
         <li>📝 Dropping wisdom bombs on <a href="https://cappel.li/HTML/notes.html">cappel.li</a></li>
       </ul>
     </td>
     <td style="vertical-align:top; width:500px; border:none; padding:0 20px;">
       <ul>
-        <li>💬 Ask me about <b>Full Stack or X86 Assembly</b></li>
+        <li>💬 Ask me about <b>Red Team, Full Stack, or X86 Assembly</b></li>
+        <li>🎯 Find me on <a href="https://app.hackthebox.com/profile/mightbeandrew">HackTheBox</a> & <a href="https://hackerone.com/might-be-andrew">HackerOne</a></li>
         <li>📫 How to reach me: <b>andrewcappelli13@gmail.com</b></li>
         <li>📄 Peek at my epic adventures: <a href="https://cappel.li">cappel.li</a></li>
         <li>⚡ Fun fact: I love rocks </li>
@@ -41,16 +42,12 @@
   <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
   <a href="https://www.php.net"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
   <a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
+  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 </p>
 
-<table align="left" style="border-collapse: collapse; border: none; padding: 0; margin: 0;">
-  <tr>
-    
- 
+<div align="center">
   <img
     src="https://github-readme-streak-stats-rose-seven.vercel.app?user=Andrew-most-likely&theme=dark&hide_border=true"
     alt="Andrew's GitHub Streak"
-     width="500" style="border-radius: 10px;"/>
-    </td>
-  </tr>
-</table>
+    width="500" style="border-radius: 10px;"/>
+</div>
