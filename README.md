@@ -11,7 +11,7 @@
     <td style="vertical-align:top; width:500px; border:none; padding:0 20px;">
       <ul>
         <li>🔭 Currently brewing some magic: <a href="https://github.com/Andrew-most-likely/Terminal-Port-Crawler">Terminal-Port-Crawler</a></li>
-        <li>🌱 Learning to tame Firebase</li>
+        <li>🌱 Learning to tame NPM</li>
         <li>👨‍💻 All my chaos lives here on <a href="https://github.com/Andrew-most-likely">GitHub</a></li>
         <li>📝 Dropping wisdom bombs on <a href="https://cappel.li/HTML/notes.html">cappel.li</a></li>
       </ul>
