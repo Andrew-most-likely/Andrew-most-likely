@@ -12,7 +12,7 @@ Junior studying Cyber Threat Intelligence and Defense at a university in the Nor
 
 Currently seeking internship or entry-level opportunities in cloud security, AI security, or security operations.
 
-- Active on [HackTheBox]([https://app.hackthebox.com/profile/mightbeandrew](https://profile.hackthebox.com/profile/019d40e1-31a6-721c-a84c-fd5de1334597)) and [HackerOne](https://hackerone.com/might-be-andrew)
+- Active on [HackTheBox](https://profile.hackthebox.com/profile/019d40e1-31a6-721c-a84c-fd5de1334597) and [HackerOne](https://hackerone.com/might-be-andrew)
 - Personal site and notes: [cappel.li](https://cappel.li)
 - Contact: andrewcappelli13@gmail.com
 
