@@ -12,7 +12,7 @@
 
 ---
 
-Junior studying **Cyber Threat Intelligence and Defense** in the Northeastern US. Focused on cloud security, AI security defense, and security operations. Seeking internship or entry-level roles in cloud security, AI security, or SOC.
+Senior studying **Cyber Threat Intelligence and Defense** in the Northeastern US. Focused on cloud security, AI security defense, and security operations. Seeking internship or entry-level roles in cloud security, AI security, or SOC.
 
 ---
 
